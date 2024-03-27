@@ -1,5 +1,5 @@
 {
-  "name": "@lbnqduy11805/miniature-garbanzo",
+  "name": "@lbnqduy11805/urban-octo-adventure",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lbnqduy11805/miniature-garbanzo.git"
+    "url": "https://github.com/lbnqduy11805/urban-octo-adventure.git"
   },
   "dependencies": {
     "@lbnqduy/cautious-happiness": "^1.0.0",
